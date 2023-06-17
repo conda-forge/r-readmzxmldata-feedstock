@@ -1,11 +1,11 @@
-About r-readmzxmldata
-=====================
+About r-readmzxmldata-feedstock
+===============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-readmzxmldata-feedstock/blob/main/LICENSE.txt)
 
 Home: http://strimmerlab.org/software/maldiquant/ https://github.com/sgibb/readMzXmlData/
 
 Package license: GPL-3.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-readmzxmldata-feedstock/blob/main/LICENSE.txt)
 
 Summary: Functions for reading mass spectrometry data in mzXML format.
 
